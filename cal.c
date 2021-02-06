@@ -2,7 +2,7 @@
 int main()
 {
 	printf("hello git");
-	ptintf("anything new ");
+	printf("new line")
 	return 0;
 	
 }
